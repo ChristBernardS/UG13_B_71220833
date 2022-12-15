@@ -3,7 +3,6 @@ t = turtle.Turtle()
 s = turtle.Screen()
 t.pencolor('Cyan')
 s.bgcolor('Black')
-t.speed(0)
 
 # C
 t.color('Cyan')
@@ -16,7 +15,6 @@ t.circle(100, 180)
 t.forward(20)
 t.penup()
 
-t.speed(10)
 t.left(90)
 t.forward(100)
 t.right(90)
